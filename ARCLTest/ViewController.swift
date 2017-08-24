@@ -6,7 +6,8 @@
 //  Copyright © 2017年 Atsuo Yonehara. All rights reserved.
 //
 
-import UIKit
+import CoreLocation
+import ARCL
 
 class ViewController: UIViewController {
 
